@@ -67,6 +67,9 @@ body {
 .remove-from-cart{
     display: inline;
 }
+.navbar-fixed-top {
+    background-color: #1c0c45; /* Новый цвет (пример) */
+}
 footer {
     margin: 50px 0;
 }
